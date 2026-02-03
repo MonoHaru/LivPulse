@@ -23,13 +23,13 @@ LivPulse는 실제 축산 현장(양식/사육 시설)에 설치된 카메라 �
 ## 🎯 Results
 
 #### Figure 1. Train Curve (Train/Val Loss)
-<img src="https://github.com/MonoHaru/ToxHerb-Net/blob/main/assets/process.png" alt="process" width="800">
+<img width="1235" height="747" alt="Train curve" src="https://github.com/user-attachments/assets/32a6f7d4-05ff-40d9-868a-936737efebbd" />
 
 #### Figure 2. Performance
-<img src="https://github.com/MonoHaru/ToxHerb-Net/blob/main/assets/process.png" alt="process" width="800">
+<img width="1188" height="1139" alt="Performance" src="https://github.com/user-attachments/assets/b39d3cd7-297f-4a5b-a73f-dcd8f5bec733" />
 
 #### Figure 3. Detection Results Examples
-<img src="https://github.com/MonoHaru/ToxHerb-Net/blob/main/assets/process.png" alt="process" width="800">
+<img width="1196" height="957" alt="Image" src="https://github.com/user-attachments/assets/8ab99c17-5352-4df5-81c2-162b091fd93d" />
 
 ## 🔮 **Future Work** 
 1. 더 강력한 탐지 아키텍처/백본 및 학습 전략을 활용하여 정확도 개선
